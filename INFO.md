@@ -1,4 +1,2 @@
-git is awesome!
-new line
-experiment with amend
-experiment with amend
+some text
+important info
