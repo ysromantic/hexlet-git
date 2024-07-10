@@ -1,1 +1,1 @@
-Yury Safonov
+nobody
